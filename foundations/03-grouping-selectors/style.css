@@ -1,0 +1,12 @@
+.goodButton .badButton{
+    font-size: 28;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+.goodButton{
+    background-color: aqua;
+    color:green;
+}
+.badButton{
+    background-color: rgb(255, 21, 0);
+    color:rgb(0, 0, 0);
+}
